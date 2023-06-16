@@ -1,0 +1,17 @@
+{
+  "resources/style/tailwind.base.scss": {
+    "file": "assets/tailwind.base-998f85a5.css",
+    "isEntry": true,
+    "src": "resources/style/tailwind.base.scss"
+  },
+  "resources/ts/core.d.ts": {
+    "file": "assets/core.d-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/ts/core.d.ts"
+  },
+  "resources/ts/main.ts": {
+    "file": "assets/main-b71a00ba.js",
+    "isEntry": true,
+    "src": "resources/ts/main.ts"
+  }
+}

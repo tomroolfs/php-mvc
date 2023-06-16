@@ -1,0 +1,1 @@
+window.__core__={};

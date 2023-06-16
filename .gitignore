@@ -1,0 +1,20 @@
+# package managers
+package-lock.json
+yarn.lock
+composer.lock
+
+# dependencies
+node_modules/
+vendor/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# env files
+.env
+.env.local
+
+# generated files
+storage/
+public/dist/

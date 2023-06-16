@@ -1,0 +1,8 @@
+{# Default message #} {% include "layouts/base.twig" %} {% block body %}
+<main class="h-full grid place-content-center">
+	<section class="max-w-md">
+		<h2 class="text-6xl font-bold text-gray-800">{{ message.title }}</h2>
+		<p class="text-gray-600">{{ message.content }}</p>
+	</section>
+</main>
+{% endblock %}

@@ -1,0 +1,8 @@
+{{ vite(["resources/ts/main.ts", "resources/style/tailwind.base.scss"]) | raw }}
+{% if title %}
+<title>{{ title }}</title>
+{% else %}
+<title>
+	{{ global.appName }}
+</title>
+{% endif %}
